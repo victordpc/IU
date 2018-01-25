@@ -28,19 +28,21 @@ body {
 /*Banner Header */
 .banner > header {
     height: 124px;
-    background: white right;
-    background-image: url('../img/banner.jpg');
+    background: white center;
+    background-image: url('../img/banner1.jpg');
     background-repeat: no-repeat;
 }
 .banner > header .logo{
     padding: 15px 10px 10px 155px;
+    
 }
+
 
 .banner > header .busquedaMain {
     width: 20%;
     position: relative;
     top: -45px;
-    left: 60%;
+    left: 67.40%;
 }
 
 .banner > header .busquedaMain .input-group {
@@ -53,6 +55,7 @@ body {
 .banner > header  .busquedaMain .input-group button {
     border: none;
     color: #9C1E3D;
+    background-color: rgb(245, 218, 225); 
 }
 
 
@@ -200,6 +203,7 @@ section > .subseccion > .contenido-subseccion {
 
 section > .subseccion > .contenido-subseccion > div{
     margin-bottom: 10px;
+    cursor: pointer;
 }
 
 section > .subseccion > .contenido-subseccion  p {
