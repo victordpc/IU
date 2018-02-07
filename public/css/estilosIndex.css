@@ -11,7 +11,7 @@ body {
     background-color: gainsboro;
     background-image: url(../img/fondo.png) !important;
     background-repeat: repeat;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Quattrocento','Source Sans Pro', sans-serif;
 
 }
 /* End Common------------------------------------------------------------- */
@@ -23,7 +23,7 @@ body {
     position: fixed;
     width: 100%;
     z-index: 100;
-    font-family: 'Source Sans Pro',sans-serif;
+    font-family: 'Quattrocento','Source Sans Pro',sans-serif;
 }
 
 /*Banner Header */
