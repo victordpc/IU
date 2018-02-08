@@ -38,6 +38,13 @@ body {
     padding: 15px 10px 10px 155px;
 
 }
+
+.banner > header .titulo{
+    float: left;
+    padding-right: 150px;
+    padding-top: 25px;
+}
+
 .banner > header .busquedaMain {
     width: 20%;
     position: relative;
