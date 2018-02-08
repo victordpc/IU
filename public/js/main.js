@@ -13,7 +13,21 @@ $(document).ready(function() {
 
 var init = function() {
     carousel();
-}
+    manageDropdown();
+};
+
+
+var manageDropdown = function () {
+
+    $('.main-menu .dropdown').on({
+        'show.bs.dropdown': function () {
+            $(this).children().first().addClass('selected')
+        },
+        'hide.bs.dropdown': function () {
+            $(this).children().first().removeClass('selected')
+        }
+    });
+};
 
 var carousel = function () {
      // Call carousel manually

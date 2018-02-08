@@ -1,0 +1,32 @@
+aside{
+    border: 2px solid  black;
+
+}
+aside a{
+    display: block;
+    cursor: pointer;
+    color: #555;
+    padding-top: 15px;
+
+}
+aside a:hover{
+    color: #B29200;
+}
+#legislacion{
+    font-weight: bold;
+    font-size: 15px;
+    color: #9C1E3D;
+}
+#pley{
+    color: #B29200;
+}
+aside div div{
+    border-bottom: 0.5px solid  #9C1E3D;
+}
+.apartadosLey{
+    margin-left: 10px;
+}
+.flechas{
+     display: inline;
+    cursor: pointer;
+}
