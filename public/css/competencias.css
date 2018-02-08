@@ -172,3 +172,11 @@ body {
     color: rgb(54, 53, 53);
 }
  /* End Footer -----------------------------------------------------------------*/
+
+ section > .subseccion  img.img-subseccion {
+    background-color: #555;
+    height: 200px;
+    display: inline-block;
+    width: 100%;
+    border-radius: 10px;
+}
