@@ -1,0 +1,49 @@
+
+
+/*Subsection -------------------------------------------------------------------*/
+
+section > .subseccion > .titulo-subseccion h4, section > .subseccion  h4 {
+    color: #134d6a;
+    border-bottom: 1px solid #B0B0B0;
+    padding-bottom: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+section > .subseccion > .contenido-subseccion {
+    margin-left: -30px;
+}
+
+section > .subseccion > .contenido-subseccion > div{
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+section > .subseccion > .contenido-subseccion  p {
+    text-align: justify;
+}
+section > .subseccion .subtitulo-subseccion {
+    font-weight: 600;
+    font-size: 0.9em;
+    margin: 0;
+    color: #555;
+    text-align: center;
+    padding-top: 2px;
+}
+section > .subseccion  img.img-subseccion{
+    background-color: #555;
+    height: 300px;
+    display: inline-block;
+    width: 214px;
+    border-radius: 10px;
+}
+section > .subseccion .ul-subsection li{
+   color: #B29200;
+   font-size: 1em;
+   line-height: 1.5em;
+}
+
+
+/*Subsection -------------------------------------------------------------------*/
+
