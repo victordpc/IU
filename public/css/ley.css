@@ -1,13 +1,7 @@
-aside{
-    border: 2px solid  black;
 
-}
 aside a{
-    display: block;
     cursor: pointer;
     color: #555;
-    padding-top: 15px;
-
 }
 aside a:hover{
     color: #B29200;
@@ -16,6 +10,8 @@ aside a:hover{
     font-weight: bold;
     font-size: 15px;
     color: #9C1E3D;
+    padding-top: 15px !important;
+    display: block;
 }
 #pley{
     color: #B29200;
@@ -28,5 +24,15 @@ aside div div{
 }
 .flechas{
      display: inline;
-    cursor: pointer;
+     cursor: pointer;
+}
+.flechas:hover{
+    color: #B29200;
+}
+.sub{
+    display: block;
+    padding-top: 15px !important;
+}
+.sec{
+    padding-top: 15px;
 }
