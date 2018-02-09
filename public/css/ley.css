@@ -39,7 +39,6 @@ aside div div{
     padding-top: 15px;
 }
 #listaLeyes{
-
     padding-top: 25px;
 }
 #listaLeyes > .sugerencias{
@@ -73,12 +72,11 @@ h3{
     float: right;
     padding-top: 25px;
     padding-left: 40px;
-
 }
 #cabezaModal{
     background-color: #9C1E3D !important ;
     color: white;
-}
+} */
 #cuerpoModal{
     color: #555 !important;
 }
