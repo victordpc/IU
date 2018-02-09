@@ -19,6 +19,12 @@ section > .subseccion > .contenido-subseccion > div{
     cursor: pointer;
 }
 
+.banner > header .titulo{
+    float: left;
+    padding-right: 150px;
+    padding-top: 25px;
+}
+
 section > .subseccion > .contenido-subseccion  p {
     text-align: justify;
 }

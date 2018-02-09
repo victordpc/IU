@@ -1,20 +1,3 @@
-/* Common----------------------------------------------------------------- */
-* {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-}
-a:hover, a:link {
-    text-decoration: none;
-}
-body {
-    background-color: gainsboro;
-    background-image: url(../img/fondo.png) !important;
-    background-repeat: repeat;
-    font-family: 'Source Sans Pro', sans-serif;
-
-}
-/* End Common------------------------------------------------------------- */
 
 
 /* Banner -----------------------------------------------------------------*/
@@ -43,6 +26,11 @@ body {
     position: relative;
     top: -45px;
     left: 67.40%;
+}
+.banner > header .titulo{
+    float: left;
+    padding-right: 150px;
+    padding-top: 25px;
 }
 .banner > header .busquedaMain .input-group {
     border: 1px solid #474143;
