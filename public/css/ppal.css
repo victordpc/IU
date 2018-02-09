@@ -90,7 +90,7 @@ span{
     padding: 10px;
 }
 .banner > nav > .main-menu > li > div > a:hover,
-.banner > nav > .main-menu > li > div > a.selected {
+.banner > nav > .main-menu > li > div > a.selected{
     background: #fff;
     border-top: 5px solid #B29200;
     cursor: pointer;
