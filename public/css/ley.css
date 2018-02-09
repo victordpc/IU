@@ -89,3 +89,9 @@ h3{
 #botonAceptar :hover{
     background-color: #B29200 !important;
 }
+
+.Redes {
+    float:right;
+    padding-right: 100px;
+    padding-top: 35px;
+}

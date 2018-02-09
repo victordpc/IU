@@ -21,6 +21,7 @@
     padding-top: 10px;
     color: #555;
 
+
 }
 #pie ul{
     text-align: center !important;
@@ -35,4 +36,9 @@ footer ul{
 }
 #lolo > div{
     display: inline-block;
+
+}
+
+.portada{
+    
 }
