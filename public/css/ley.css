@@ -1,4 +1,6 @@
-
+aside{
+    display: inline-block;
+}
 aside a{
     cursor: pointer;
     color: #555;
@@ -35,4 +37,55 @@ aside div div{
 }
 .sec{
     padding-top: 15px;
+}
+#listaLeyes{
+
+    padding-top: 25px;
+}
+#listaLeyes > .sugerencias{
+    border-bottom: 0.5px solid  #9C1E3D;
+    padding-top: 15px !important;
+    color: #555;
+    overflow: hidden;
+}
+.caracteristicas{
+    cursor: pointer;
+}
+h3{
+    color: #555;
+}
+.detalles{
+    color: #9d9d9d;
+}
+.detalles i{
+    color: #9d9d9d;
+}
+#listaLeyes .glyphicon-star{
+    color: #B29200 !important;
+}
+.editable:hover {
+    color: #B29200 !important;
+}
+#annadir{
+    color: #9C1E3D;
+    cursor: pointer;
+    font-size: x-large;
+    float: right;
+    padding-top: 25px;
+    padding-left: 40px;
+
+}
+#cabezaModal{
+    background-color: #9C1E3D !important ;
+    color: white;
+}
+#cuerpoModal{
+    color: #555 !important;
+}
+#botonAceptar{
+    background-color: #B29250 !important;
+    border: 0.5px solid #555 !important;
+}
+#botonAceptar :hover{
+    background-color: #B29200 !important;
 }
