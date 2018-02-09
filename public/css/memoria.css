@@ -4,11 +4,18 @@
 }
 #pieMemoria{
 	position: relative;
-    background: #454545;
+    border-top: 0.5px solid #555;
     padding: 1em 0.2em 1em 0.2em;
     text-align: center;
-    
+    color: #555;
+
 }
-#recuadros{
-	border: 4px solid blue;
+#pieMemoria a{
+    font-size: 13px;
+}
+
+#pie{
+    border-top: 0.5px solid #555;
+    padding-top: 10px;
+    color: #555;
 }
