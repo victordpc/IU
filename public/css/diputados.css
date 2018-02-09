@@ -1,0 +1,87 @@
+aside{
+    display: inline-block;
+}
+aside a{
+    cursor: pointer;
+    color: #555;
+}
+aside a:hover{
+    color: #B29200;
+}
+#legislacion{
+    font-weight: bold;
+    font-size: 15px;
+    color: #9C1E3D;
+    padding-top: 15px !important;
+    display: block;
+}
+#pley{
+    color: #B29200;
+}
+aside div div{
+    border-bottom: 0.5px solid  #9C1E3D;
+}
+.apartadosLey{
+    margin-left: 10px;
+}
+.flechas{
+     display: inline;
+     cursor: pointer;
+}
+.flechas:hover{
+    color: #B29200;
+}
+.sub{
+    display: block;
+    padding-top: 15px !important;
+}
+.sec{
+    padding-top: 15px;
+}
+#listaLeyes{
+
+    padding-top: 25px;
+}
+#listaLeyes > .sugerencias{
+    border-bottom: 0.5px solid  #9C1E3D;
+    padding-top: 15px !important;
+    color: #555;
+    overflow: hidden;
+}
+.caracteristicas{
+    cursor: pointer;
+}
+h3{
+    color: #555;
+}
+.Redes {
+    float:right;
+    padding-right: 100px;
+    padding-top: 35px;
+}
+.sugerencias{
+    margin-bottom: 25px;
+}
+
+.carrus{
+    position: relative;
+    top: 60px;
+}
+#pepe{
+    position: relative;
+    top: -50px;
+}
+.flechasCarrusel{
+    background-image: none !important;
+}
+.rl{
+    color: #9C1E3D;
+}
+#izq{
+    position: relative;
+    left: -45px;
+}
+#der{
+    position: relative;
+    right: -45px;
+}
