@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8d19b5-d5fa-49d3-81e6-22af069f2b52" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/DetalleLey2.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/DetalleLey1.html" afterPath="$PROJECT_DIR$/templates/DetalleLey1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Leyes.html" afterPath="$PROJECT_DIR$/templates/Leyes.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,41 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="alemania.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/alemania.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3717">
-              <caret line="177" column="20" lean-forward="false" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="diseño.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/diseño.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3843">
-              <caret line="183" column="1" lean-forward="false" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portadaCongreso.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/portadaCongreso.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5733">
-              <caret line="273" column="69" lean-forward="false" selection-start-line="273" selection-start-column="69" selection-end-line="273" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Leyes.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/Leyes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="223" column="31" lean-forward="false" selection-start-line="223" selection-start-column="31" selection-end-line="223" selection-end-column="31" />
+            <state relative-caret-position="474">
+              <caret line="250" column="66" lean-forward="false" selection-start-line="250" selection-start-column="66" selection-end-line="250" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -57,54 +28,9 @@
       <file leaf-file-name="DetalleLey1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/DetalleLey1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="495">
+              <caret line="273" column="81" lean-forward="true" selection-start-line="273" selection-start-column="81" selection-end-line="273" selection-end-column="81" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DetalleLey2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/DetalleLey2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3528">
-              <caret line="168" column="32" lean-forward="false" selection-start-line="162" selection-start-column="28" selection-end-line="168" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Alemania.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Alemania.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-              <folding>
-                <marker date="1518185712869" expanded="true" signature="676:2037" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="731:2022" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="752:1301" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="803:1279" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="960:1252" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1322:1477" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1365:1455" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1498:1663" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1541:1641" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1684:1833" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1727:1811" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1854:2004" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="1897:1982" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2081:4776" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2099:4728" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2146:4652" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2217:2309" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2364:4633" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2427:4610" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2508:2878" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="2961:3362" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="3435:4061" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="4149:4523" ph="..." />
-                <marker date="1518185712869" expanded="true" signature="4746:4764" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -149,6 +75,7 @@
         <option value="$PROJECT_DIR$/templates/Implementacion.html" />
         <option value="$PROJECT_DIR$/templates/Diseño.html" />
         <option value="$PROJECT_DIR$/public/css/diseño.css" />
+        <option value="$PROJECT_DIR$/templates/DetalleLey1.html" />
         <option value="$PROJECT_DIR$/templates/Leyes.html" />
       </list>
     </option>
@@ -275,8 +202,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -545,39 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Alemania.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding>
-            <marker date="1518185712869" expanded="true" signature="676:2037" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="731:2022" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="752:1301" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="803:1279" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="960:1252" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1322:1477" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1365:1455" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1498:1663" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1541:1641" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1684:1833" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1727:1811" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1854:2004" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="1897:1982" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2081:4776" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2099:4728" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2146:4652" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2217:2309" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2364:4633" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2427:4610" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2508:2878" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="2961:3362" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="3435:4061" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="4149:4523" ph="..." />
-            <marker date="1518185712869" expanded="true" signature="4746:4764" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/finlandia.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="831">
@@ -644,14 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/DetalleLey1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/DetalleLey2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3528">
@@ -660,10 +547,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Alemania.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="31" column="88" lean-forward="true" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/DetalleLey1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="273" column="81" lean-forward="true" selection-start-line="273" selection-start-column="81" selection-end-line="273" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/Leyes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="223" column="31" lean-forward="false" selection-start-line="223" selection-start-column="31" selection-end-line="223" selection-end-column="31" />
+        <state relative-caret-position="474">
+          <caret line="250" column="66" lean-forward="false" selection-start-line="250" selection-start-column="66" selection-end-line="250" selection-end-column="66" />
           <folding />
         </state>
       </provider>
