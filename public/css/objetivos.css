@@ -172,3 +172,13 @@ body {
     color: rgb(54, 53, 53);
 }
  /* End Footer -----------------------------------------------------------------*/
+.activo{
+     background: #fff;
+    border-top: 5px solid #B29200;
+    cursor: pointer;
+    color: #B29200 !important;
+    box-shadow: 0px 1px 0px rgb(255, 255, 255);
+}
+.activo a{
+    color: #B29200 !important;
+}
