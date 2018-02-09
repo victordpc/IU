@@ -25,7 +25,7 @@ section > .subseccion > .contenido-subseccion  p {
 }
 section > .subseccion .subtitulo-subseccion {
     font-weight: 600;
-    font-size: 0.9em;
+    font-size: 1.1em;
     margin: 0;
     color: #555;
     text-align: center;
@@ -47,3 +47,8 @@ section > .subseccion .ul-subsection li{
 
 /*Subsection -------------------------------------------------------------------*/
 
+.Redes{
+    float: bottom;
+    padding-left: 60px;
+    padding-top: 10px;
+}
