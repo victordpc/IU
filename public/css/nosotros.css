@@ -28,6 +28,7 @@ section > .subseccion > .contenido-subseccion > div{
 section > .subseccion > .contenido-subseccion  p {
     text-align: justify;
 }
+
 section > .subseccion .subtitulo-subseccion {
     font-weight: 600;
     font-size: 1.1em;
@@ -36,6 +37,7 @@ section > .subseccion .subtitulo-subseccion {
     text-align: center;
     padding-top: 2px;
 }
+
 section > .subseccion  img.img-subseccion{
     background-color: #555;
     height: 300px;
@@ -43,12 +45,12 @@ section > .subseccion  img.img-subseccion{
     width: 214px;
     border-radius: 10px;
 }
+
 section > .subseccion .ul-subsection li{
    color: #B29200;
    font-size: 1em;
    line-height: 1.5em;
 }
-
 
 /*Subsection -------------------------------------------------------------------*/
 
@@ -65,9 +67,11 @@ section > .subseccion .ul-subsection li{
     color: #B29200 !important;
     box-shadow: 0px 1px 0px rgb(255, 255, 255);
 }
+
 .activo a{
     color: #B29200 !important;
 }
+
 #pieMemoria{
 	position: relative;
     border-top: 0.5px solid #555;
@@ -76,8 +80,8 @@ section > .subseccion .ul-subsection li{
     color: #555;
     width: 100%;
     margin-left: 0%;
-
 }
+
 #pieMemoria a{
     font-size: 13px;
 }
@@ -88,6 +92,7 @@ section > .subseccion .ul-subsection li{
     color: #555;
 
 }
+
 #pie ul{
     text-align: center !important;
 }
@@ -96,9 +101,11 @@ footer ul{
     list-style: none;
     text-align: left;
 }
+
 #lolo{
     margin: auto;
 }
+
 #lolo > div{
     display: inline-block;
 }

@@ -146,6 +146,15 @@ span{
     bottom: 0px;
     overflow: hidden;
 }
+
+.migas {
+    color: grey;
+    margin: 10px;
+}
+
+.migas > a{
+    color: #9C1E3D;
+}
 /* End Main Content -----------------------------------------------------------*/
 
 /* Footer ----------------------------------------------------------------------*/
