@@ -20,6 +20,10 @@ body {
 span{
     display: inline-block;
 }
+
+section p{
+    text-align: justify;
+}
 /* End Common------------------------------------------------------------- */
 
 
