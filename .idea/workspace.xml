@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8d19b5-d5fa-49d3-81e6-22af069f2b52" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/competencias.css" afterPath="$PROJECT_DIR$/public/css/competencias.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/diseño.css" afterPath="$PROJECT_DIR$/public/css/diseño.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/ppal.css" afterPath="$PROJECT_DIR$/public/css/ppal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Diseño.html" afterPath="$PROJECT_DIR$/templates/Diseño.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,28 +18,28 @@
       <file leaf-file-name="ppal.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/ppal.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2016">
-              <caret line="63" column="18" lean-forward="true" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+            <state relative-caret-position="462">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="competencia.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/competencia.html">
+      <file leaf-file-name="Diseño.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Diseño.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="106" column="26" lean-forward="true" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
+            <state relative-caret-position="558">
+              <caret line="66" column="62" lean-forward="true" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="competencias.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/css/competencias.css">
+      <file leaf-file-name="diseño.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/css/diseño.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,16 +66,13 @@
         <option value="$PROJECT_DIR$/templates/diputados.html" />
         <option value="$PROJECT_DIR$/public/js/main.js" />
         <option value="$PROJECT_DIR$/public/css/ley.css" />
-        <option value="$PROJECT_DIR$/public/css/ppal.css" />
         <option value="$PROJECT_DIR$/templates/DetalleLey1.html" />
-        <option value="$PROJECT_DIR$/public/css/diseño.css" />
         <option value="$PROJECT_DIR$/public/css/finlandia.css" />
         <option value="$PROJECT_DIR$/public/css/francia.css" />
         <option value="$PROJECT_DIR$/public/css/implementacion.css" />
         <option value="$PROJECT_DIR$/public/css/objetivos.css" />
         <option value="$PROJECT_DIR$/templates/about.html" />
         <option value="$PROJECT_DIR$/templates/competencia.html" />
-        <option value="$PROJECT_DIR$/templates/Diseño.html" />
         <option value="$PROJECT_DIR$/templates/Finlandia.html" />
         <option value="$PROJECT_DIR$/templates/Francia.html" />
         <option value="$PROJECT_DIR$/templates/Implementacion.html" />
@@ -89,6 +88,9 @@
         <option value="$PROJECT_DIR$/templates/Alemania.html" />
         <option value="$PROJECT_DIR$/public/css/nosotros.css" />
         <option value="$PROJECT_DIR$/public/css/competencias.css" />
+        <option value="$PROJECT_DIR$/templates/Diseño.html" />
+        <option value="$PROJECT_DIR$/public/css/diseño.css" />
+        <option value="$PROJECT_DIR$/public/css/ppal.css" />
       </list>
     </option>
   </component>
@@ -359,13 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/diseño.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="205" column="1" lean-forward="false" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/finlandia.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="831">
@@ -391,13 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="831">
           <caret line="205" column="1" lean-forward="false" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Diseño.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="161" column="37" lean-forward="false" selection-start-line="161" selection-start-column="37" selection-end-line="161" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -535,10 +523,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/ppal.css">
+    <entry file="file://$PROJECT_DIR$/public/css/competencias.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2016">
-          <caret line="63" column="18" lean-forward="true" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -551,10 +539,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/competencias.css">
+    <entry file="file://$PROJECT_DIR$/templates/Diseño.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="558">
+          <caret line="66" column="62" lean-forward="true" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/ppal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/diseño.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
