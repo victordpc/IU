@@ -10,24 +10,6 @@ section > .subseccion > .titulo-subseccion h4, section > .subseccion  h4 {
     font-weight: 400;
 }
 
-section > .subseccion > .contenido-subseccion {
-    margin-left: -30px;
-}
-
-section > .subseccion > .contenido-subseccion > div{
-    margin-bottom: 10px;
-    cursor: pointer;
-}
-
-.banner > header .titulo{
-    float: left;
-    padding-right: 150px;
-    padding-top: 25px;
-}
-
-section > .subseccion > .contenido-subseccion  p {
-    text-align: justify;
-}
 
 section > .subseccion .subtitulo-subseccion {
     font-weight: 600;
@@ -46,11 +28,7 @@ section > .subseccion  img.img-subseccion{
     border-radius: 10px;
 }
 
-section > .subseccion .ul-subsection li{
-   color: #B29200;
-   font-size: 1em;
-   line-height: 1.5em;
-}
+
 
 /*Subsection -------------------------------------------------------------------*/
 
