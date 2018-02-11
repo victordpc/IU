@@ -152,8 +152,15 @@ span{
     margin: 10px;
 }
 
-.migas > a{
+h3{ 
+    color:#B29200;
+}
+
+a{
     color: #9C1E3D;
+}
+p{
+    color:grey;
 }
 /* End Main Content -----------------------------------------------------------*/
 
@@ -189,5 +196,34 @@ span{
 .main-content > footer a:hover {
     cursor: pointer;
     color: rgb(54, 53, 53);
+}
+
+#pieMemoria{
+	position: relative;
+    border-top: 0.5px solid #555;
+    padding: 1em 0.2em 1em 0.2em;
+    text-align: center;
+    color: #555;
+    width: 100%;
+    margin-left: 0%;
+
+}
+#pieMemoria a{
+    font-size: 13px;
+}
+
+#pie{
+    border-top: 0.5px solid #555;
+    padding-top: 10px;
+    color: #555;
+
+
+}
+#pie ul{
+    text-align: center !important;
+}
+
+footer ul{
+    list-style: none;
 }
  /* End Footer -----------------------------------------------------------------*/

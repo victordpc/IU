@@ -1,39 +1,5 @@
-
 #descripcion{
 	border: 1px solid red;
 }
-#pieMemoria{
-	position: relative;
-    border-top: 0.5px solid #555;
-    padding: 1em 0.2em 1em 0.2em;
-    text-align: center;
-    color: #555;
-    width: 100%;
-    margin-left: 0%;
-
-}
-#pieMemoria a{
-    font-size: 13px;
-}
-
-#pie{
-    border-top: 0.5px solid #555;
-    padding-top: 10px;
-    color: #555;
 
 
-}
-#pie ul{
-    text-align: center !important;
-}
-
-footer ul{
-    list-style: none;
-}
-#lolo{
-    margin: auto;
-}
-#lolo > div{
-    display: inline-block;
-
-}
