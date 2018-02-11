@@ -158,6 +158,10 @@
     cursor: pointer;
     color: rgb(54, 53, 53);
 }
+
+img{
+    border-radius: 10px;
+}
  /* End Footer -----------------------------------------------------------------*/
 .activo{
      background: #fff;

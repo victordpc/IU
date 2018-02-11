@@ -4,9 +4,11 @@
     margin: 0;
     list-style: none;
 }
+
 a:hover, a:link {
     text-decoration: none;
 }
+
 body {
     background-color: gainsboro;
     background-image: url(../img/fondo.png) !important;
@@ -14,6 +16,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 
 }
+
 span{
     display: inline-block;
 }
@@ -37,6 +40,7 @@ span{
     background-repeat: no-repeat;
     background-color: #d8dbdb !important;
 }
+
 .banner > header .logo{
     padding: 15px 10px 10px 155px;
 
@@ -54,27 +58,32 @@ span{
     top: -45px;
     left: 67.40%;
 }
+
 .banner > header .busquedaMain .input-group {
     border: 1px solid #474143;
     box-shadow: 0;
     border-radius: 6px;
 }
+
 .banner > header .busquedaMain .input-group input,
 .banner > header  .busquedaMain .input-group button {
     border: none;
     color: #474143;
     background-color: #d8dbdb;
 }
+
 /*Banner Nav */
 .banner > nav {
     height: 43px;
     background-color: #9C1E3D;
     box-shadow: 0px 1px 2px 1px rgb(87, 12, 30);
 }
+
 .banner > nav > .main-menu  {
     text-align: center;
     list-style: none;
 }
+
 .banner > nav > .main-menu > li{
     display: inline-block;
     line-height: 40px;
@@ -82,6 +91,7 @@ span{
     margin-right: 20px;
     border-top: 4px solid #9C1E3D;
 }
+
 .banner > nav > .main-menu > li > div > a {
     color: white;
     font-weight: bold;
@@ -89,6 +99,7 @@ span{
     letter-spacing: 0.1ex;
     padding: 10px;
 }
+
 .banner > nav > .main-menu > li > div > a:hover,
 .banner > nav > .main-menu > li > div > a.selected{
     background: #fff;
@@ -97,6 +108,7 @@ span{
     color: #B29200;
     /* box-shadow: 0px 1px 0px rgb(255, 255, 255); */
 }
+
 .banner > nav > .main-menu > li > div > a {
     transition: all 0.5s;
 }
@@ -216,12 +228,12 @@ p{
     border-top: 0.5px solid #555;
     padding-top: 10px;
     color: #555;
-
-
 }
+
 #pieMemoria b{
     color: #555;
 }
+
 #pie ul{
     text-align: center !important;
 }
