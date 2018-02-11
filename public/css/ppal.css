@@ -79,7 +79,7 @@ section p{
 
 /*Banner Nav */
 .banner > nav {
-    height: 43px;
+    height: 45px;
     background-color: #9C1E3D;
     box-shadow: 0px 1px 2px 1px rgb(87, 12, 30);
 }
@@ -90,6 +90,13 @@ section p{
 }
 
 .banner > nav > .main-menu > li{
+    display: inline-block;
+    line-height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.banner > nav.principal > .main-menu > li{
     display: inline-block;
     line-height: 40px;
     margin-left: 20px;
