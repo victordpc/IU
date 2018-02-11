@@ -219,6 +219,9 @@ p{
 
 
 }
+#pieMemoria b{
+    color: #555;
+}
 #pie ul{
     text-align: center !important;
 }
