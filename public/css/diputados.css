@@ -85,3 +85,7 @@ h3{
     position: relative;
     right: -45px;
 }
+.banner > header {
+
+    background-color: #d8dbdb !important;
+}

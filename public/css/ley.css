@@ -76,7 +76,7 @@ h3{
 #cabezaModal{
     background-color: #9C1E3D !important ;
     color: white;
-} */
+}
 #cuerpoModal{
     color: #555 !important;
 }
@@ -92,4 +92,8 @@ h3{
     float:right;
     padding-right: 100px;
     padding-top: 35px;
+}
+.banner > header {
+
+    background-color: #d8dbdb !important;
 }
