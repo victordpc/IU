@@ -42,7 +42,7 @@ section p{
     /*background: white center;
     background-image: url('../img/cong2.jpg');*/
     background-repeat: no-repeat;
-    background-color: #d8dbdb !important;
+    background-color: #ad2043 !important;
 }
 
 .banner > header .logo{
@@ -54,6 +54,7 @@ section p{
     float: left;
     padding-right: 150px;
     padding-top: 25px;
+    color: white;
 }
 
 .banner > header .busquedaMain {
