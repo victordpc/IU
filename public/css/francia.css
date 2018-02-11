@@ -184,6 +184,10 @@
     font-size: 13px;
 }
 
+#pieMemoria b{
+    color: #555;
+}
+
 #pie{
     border-top: 0.5px solid #555;
     padding-top: 10px;
